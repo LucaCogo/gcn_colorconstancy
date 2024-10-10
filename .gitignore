@@ -1,4 +1,6 @@
 .env/
 __pycache__/
-data/*
 visualizations/
+data/Shi-Gehler
+data/Shi-Gehler-graph/patches/*
+!data/Shi-Gehler-graph/patches/generate.py
