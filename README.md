@@ -35,6 +35,11 @@ project
 Before running the experiments, please make sure to have installed all the libraries reported in requirements.txt.
 Otherwise, run `pip install -r requirements.txt` to install all the missing dependencies.
 
+The `data` folder needs to be populated with the Shi-Gehler dataset with the following procedure:
+
+1) Download the dataset from <a href="https://drive.google.com/file/d/1YNXsEuIqy64bq8_nmxpbmClsPLosnCAE/view?usp=sharing">here</a> and unzip it inside the data folder
+2) Run the `generate.py` script inside `data/Shi-Gehler-graph/`to generate graph data
+
 ## Running the experiments
 You can re-run all the experiments running the ```experiments.sh``` file.
 Otherwise, here are some snippets for running single experiments:
