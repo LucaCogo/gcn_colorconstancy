@@ -1,0 +1,2 @@
+Due to Github limitations, the checkpoints for the AlexNet experiments were saved on Google Drive.
+You can find them at: https://drive.google.com/drive/folders/1Aw9_vs0IjHnf_k0HDXrrpaY29oKTZ_r8?usp=drive_link
